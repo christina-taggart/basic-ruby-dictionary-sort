@@ -1,10 +1,10 @@
-# Dictionary Sort 
- 
-##Learning Competencies 
+# Dictionary Sort
 
-##Summary 
+##Learning Competencies
 
- Sort an array of words typed into the command line.
+##Summary
+
+Sort an array of words typed into the command line.
 
 It should work something like this
 
@@ -38,7 +38,7 @@ Make sure to test your program thoroughly, both internally and from the user int
 * Work with user input
 * Store and access data in a data structure (arrays)
 * Understand different sorting algoritms
-* Research Existing Ruby Methods using ruby docs. 
+* Research Existing Ruby Methods using ruby docs.
 
 ###As you're coding, ask yourself ...
 * What happens if the user inputs a number or an empty string?
@@ -53,13 +53,13 @@ It should store those words in an array.
 
 ### Sort and print
 
-When the user presses `Enter` on an empty line, it should repeat the entered words back (print them to the console) in alphabetical order.  
+When the user presses `Enter` on an empty line, it should repeat the entered words back (print them to the console) in alphabetical order.
 
-It should ignore case for sorting: `apple` should come before `Bear`, and it should still print out the words in their original case. 
+It should ignore case for sorting: `apple` should come before `Bear`, and it should still print out the words in their original case.
 
 ##Releases
-###Release 0 
+###Release 0
 
-##Optimize Your Learning 
+##Optimize Your Learning
 
 ##Resources
