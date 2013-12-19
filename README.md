@@ -6,7 +6,7 @@
 
 Sort an array of words typed into the command line.
 
-It should work something like this
+It should work something like this:
 
 ```text
 $ ruby dictionary_sort.rb
@@ -32,12 +32,12 @@ Make sure to test your program thoroughly, both internally and from the user int
 <cite>Source: Chris Pine, [Learn to Program](http://pine.fm/LearnToProgram/)</cite>
 
 ###External Resources
-* Learn about various [Sorting Algorithms](http://en.wikipedia.org/wiki/Sorting_algorithm)
+* Learn about various [Sorting Algorithms](http://en.wikipedia.org/wiki/Sorting_algorithm).
 
 ###Learning Goals
-* Work with user input
-* Store and access data in a data structure (arrays)
-* Understand different sorting algoritms
+* Work with user input.
+* Store and access data in an array.
+* Understand different sorting algorithms.
 * Research Existing Ruby Methods using ruby docs.
 
 ###As you're coding, ask yourself ...
@@ -49,7 +49,7 @@ Make sure to test your program thoroughly, both internally and from the user int
 
 Write a program that asks the user to type as many words as they want (one word per line, continuing until they press `Enter` on an empty line).
 
-It should store those words in an array.
+The program should store those words in an array.
 
 ### Sort and print
 
