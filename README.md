@@ -2,6 +2,13 @@
  
 ##Learning Competencies 
 
+* Read user input
+* Write to user output
+* Store and access data in a data structure (arrays)
+* Sort a data structure (array) using common sorting algorithms
+* Choose an optimal sorting algorithm based on complexity, memory, and other factors
+* Use Ruby Docs to effectively research existing Ruby methods.
+
 ##Summary 
 
  Sort an array of words typed into the command line.
@@ -27,39 +34,27 @@ $ ruby dictionary_sort.rb
 > xanthate
 ```
 
-Make sure to test your program thoroughly, both internally and from the user interface.
+##Releases
 
-<cite>Source: Chris Pine, [Learn to Program](http://pine.fm/LearnToProgram/)</cite>
-
-###External Resources
-* Learn about various [Sorting Algorithms](http://en.wikipedia.org/wiki/Sorting_algorithm)
-
-###Learning Goals
-* Work with user input
-* Store and access data in a data structure (arrays)
-* Understand different sorting algoritms
-* Research Existing Ruby Methods using ruby docs. 
-
-###As you're coding, ask yourself ...
-* What happens if the user inputs a number or an empty string?
-
-## Objectives
-
-### Store user input
+###Release 0 : Store user input
 
 Write a program that asks the user to type as many words as they want (one word per line, continuing until they press `Enter` on an empty line).
 
 It should store those words in an array.
 
-### Sort and print
+<cite>Source: Chris Pine, [Learn to Program](http://pine.fm/LearnToProgram/)</cite>
+
+
+###Release 1: Sort and print
 
 When the user presses `Enter` on an empty line, it should repeat the entered words back (print them to the console) in alphabetical order.  
 
-It should ignore case for sorting: `apple` should come before `Bear`, and it should still print out the words in their original case. 
+It should ignore case for sorting: `apple` should come before `Bear`, and it should still print out the words in their original case.
 
-##Releases
-###Release 0 
+Make sure to test your program thoroughly, both internally and from the user interface.  What happens if the user inputs a number or an empty string?
 
-##Optimize Your Learning 
-
+<!-- ##Optimize Your Learning  -->
+ 
 ##Resources
+
+* Learn about various [Sorting Algorithms](http://en.wikipedia.org/wiki/Sorting_algorithm)
