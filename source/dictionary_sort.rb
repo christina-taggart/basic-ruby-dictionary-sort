@@ -1,5 +1,5 @@
 def dictionary_sort(arr)
-  # Your code here to sort the array
+  arr.sort_by {|w| w.downcase}
 end
 
 # ...your code here to initialize the program and take user input
@@ -11,7 +11,7 @@ def add_words
     word = gets
     dictionary << word.chomp
   end
-  puts dictionary
+  puts dictionary_sort(dictionary)
 end
 
 add_words
